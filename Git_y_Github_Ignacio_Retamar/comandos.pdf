@@ -1,0 +1,36 @@
+-Crear un nuevo repositorio local
+    $git init
+-Introducir mi usuario de github
+    $git config user.name"usuario"    
+-Introducir mi email de github
+    $git config user.email"mi email"
+-Agregar un archivo al repositorio
+    $git add nombre del archivo
+-Agregar todos los archivos al repositorio    
+    $git add . 
+-Ver seguimiento de los archivo    
+    $git status
+-Crear un commit de los archivos
+    $git commit -m"mensaje"
+-Enviar los cambios al repositorio remoto
+    $git push origin master/main
+-Ver los commits
+    $git log
+-Descargar los archivos por primera ves de un repositorio
+    $git clone url.git
+-Actualizar los archivos de un repositorio
+    $git pull origin master/mail
+-Crear una rama
+    $git branch nombre.de.la.rama
+-Enumera todas las ramas
+    $git branch
+-Eliminar una rama
+    $git branch -d nombre.de.la.rama
+-Fuerza la eliminación de la rama especificada, incluso si tiene cambios sin fusionar
+    $git branch -D nombre.de.la.rama
+-Moverse entre ramas
+    $git checkout nombre.de.la.rama
+-Subir las modificaciones de una rama especificada
+    $git push origin nombre.de.la.rama
+-Actualizar una rama
+    $git pull origin nombre.de.la.rama            
