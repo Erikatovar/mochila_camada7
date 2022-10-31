@@ -1,0 +1,4 @@
+* respuesta 1: Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds,
+ el famoso creador del kernel del sistema operativo Linux, en 2005.
+ * respuesta 2: actualmente pertenece a Microsoft
+ * respuesta 3: github se puede usar tanto desde la web como desde git bash
