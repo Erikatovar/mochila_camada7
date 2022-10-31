@@ -1,0 +1,6 @@
+A.¿Quién inventó el sistema de control de versión Git y por qué?
+R:Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds
+B.¿A quién pertenece actualmente Github y por qué?
+R:le pertenece a software, Se utiliza principalmente para la creación de código fuente de programas de ordenador. 
+C.¿Hay otra forma que no sea la terminal para trabajar con Github?
+R: es el único lugar en donde puedes ejecutar todos los comandos de Git la mayoría de interfaces gráficas de usuario solo implementan una parte de las características de Git por motivos de simplicidad.
