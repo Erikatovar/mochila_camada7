@@ -1,0 +1,10 @@
+a.¿Quién inventó el sistema de control de versión GIT y por qué? 
+Git fue diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o front end.
+
+b.¿A quién pertenece GitHub y por qué?
+Microsoft ha pagado 2.000 millones de dólares por GitHub. 
+El motivo principal de la adquisición de Github es que necesitaban tener el programa mas importante de desarrolladores Open source del mundo. con la adquisición de GitHub quiere mantener su relevancia en el desarrollo de todo tipo de plataformas, incluidas por supuesto las orientadas a dispositivos móviles.
+
+c.¿Hay otra forma que no sea la terminal para trabajar con GitHub?
+Si, hay otra forma, utilizando Github Desktop. En la siguiente página puede verse paso a paso para realizarlo: https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop
