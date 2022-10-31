@@ -1,0 +1,14 @@
+a) Git fue inventado principalmente por Linus Torvalds 
+y el equipo de desarrollo de linux, anterior a su creacion los cambios y 
+actualizaciones del software se realizaban a traves de parches y archivos, 
+luego en 2002 el equipo de desarrollo comenzo a usar un DVCS llamado
+BitKeeper.
+En el 2005, la herramienta dejo de ser gratuita, impulsando a la comunidad de 
+desarrollo de Linux y su creador a desarrollar su propia herramienta basada
+en el software BitKeeper.
+
+B)Desde el año 2018 Github pertenece a Microsoft
+
+C)Si, se puede trabajar con github sin la terminal a traves de la aplicacion
+de escritorio "Github Desktop", la misma permite trabajar con github desde
+una interfaz grafica.
