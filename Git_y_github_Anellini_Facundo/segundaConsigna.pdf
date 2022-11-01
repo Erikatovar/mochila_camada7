@@ -1,0 +1,35 @@
+Crear un repositorio local
+$ git init
+
+Clonar un repositorio remoto
+$ git clone <url del repositorio>
+
+Agregar archivos al commit
+$ git add .   (el punto al final significa que agregaremos todos los archivos del repositorio al commit)
+$ git add <nombre del archivo> (Agrega solo ese archivo al commit)
+
+Crear commit
+$ git commit -m "<Aca escribimos un comentario>"
+
+Pullear (bajar repo) Bajar commit del repositorio remoto para ver con que version nos quedamos
+$ git pull origin <nombre de la rama>
+
+Pushear (subir) commit
+$ git push origin <nombre de la rama>
+
+Conocer cuantos commits hay en una rama, y los nombres y comentarios de los commits
+$ git log
+
+Conocer el estado de los archivos para saber si estan agregados o no antes de hacer el commit
+$ git status
+
+Comandos para verificar, crear, borar y moverse entre ramas
+$ git branch  (Ennumera las ramas del repositorio)
+$ git branch (nombre de la rama) (Crea una nueva rama con el nombre que elijamos)
+$ git branch -d <nombre de la rama> (Elimina la rama que nombremos siempre y cuando no tenga cambios sin guardar)
+$ git branch -D <nombre de la rama> (Fuerza la eliminacion de la rama tenga o no cambios sin guardar)
+$ git checkout <nombre de la rama> (Para moverse de una rama a otra)
+
+Git checkout tambien sirve para movernos de un commit a otro
+$ git checkout <ID del commit> nos lleva a ese commit.
+

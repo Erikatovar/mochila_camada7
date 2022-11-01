@@ -1,0 +1,19 @@
+Primera consigna de la mochila del viajero
+
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+Git fue inventado en 2007 por Linus Torvalds, el creador del nucleo de Linux.
+Linus buscaba un sistema que pudiera usar en forma semejante a BitKeeper (Otro sistema de control de versiones), pero ninguno cumplia con sus requerimientos, por lo
+tanto se dispuso a crear el suyo propio.
+
+b. ¿A quién pertenece actualmente Github y por qué?
+Desde 2018 Github pertenece a Microsoft.
+La CEO de Microsoft declaro que cree en los desarrolladores como los arquitectos del futuro y que pretenden hacer que Github sea su hogar, enfocandose
+en el desarrollo.
+Personalmente considero que la compra de Github le ofrece a Microsoft una ventaja frente a otras compañias, ser dueños de una base de datos gigante de codigo
+de todo tipo suena inteligente.
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Se puede trabajar directamente desde la web de github, editar archivos y crear commits
+
+
+
