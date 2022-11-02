@@ -1,0 +1,20 @@
+Cheatsheet comandos git:
+
+    - git log 
+        este inicializa un repositorio local
+    - git config user.name "nombre-de-usuario"
+        este se usa para configurar tu nombre de usuario
+    - git remote add origin "pegar url"
+        este conecta un repositorio local con uno remoto
+    - git add "archivos" 
+        con este se trackea los archivos del repositorio
+    - git status 
+        este dira siempre el status de los archivos y el estado de los mismo respecto al repositorio
+    - git commit -m "" 
+        con este se agregan los archivo al repositorio
+    - git push origin branch-name
+        este lleva los archivos del repo local al repo remoto en github
+    - git pull origin branch-name
+        con este se mantiene sincronizado los archivos en el repo local con el remoto
+    - git clone "url"
+        con este se copia un repositorio remoto
