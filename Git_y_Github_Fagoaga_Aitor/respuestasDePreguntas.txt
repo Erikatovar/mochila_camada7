@@ -1,0 +1,40 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+
+    Linus Torvalds fue el creador de git, este sistema se lanzo el 19 de octubre de 2007.
+    Linus tambien fue el creador de kermel Linux.
+    El kernel de Linux es un proyecto de software de código abierto con un alcance bastante amplio.
+     Durante la mayor parte del mantenimiento(1991-2002),
+     los cambios en el software se realizaban a través de parches y archivos.
+     En el 2002, el proyecto del kernel de Linux empezó a usar un DVCS propietario llamado BitKeeper.
+
+    En el 2005, la relación entre la comunidad que desarrollaba el kernel de Linux y la compañía 
+    que desarrollaba BitKeeper se vino abajo y la herramienta dejó de ser ofrecida de manera gratuita.
+    Esto impulsó a Linus Torvalds
+    a desarrollar su propia herramienta basada en algunas de las lecciones que aprendieron mientras usaban BitKeeper.
+    Algunos de los objetivos del nuevo sistema fueron los siguientes:
+
+    - Velocidad
+
+    - Diseño sencillo
+
+    - Gran soporte para desarrollo no lineal (miles de ramas paralelas)
+
+    - Completamente distribuido
+
+    - Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (velocidad y tamaño de los datos)
+        
+
+b. ¿A quién pertenece actualmente Github y por qué?
+
+    El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+    Desde el nombramiento de Satya Nadella como CEO de Microsoft,
+    la compañía ha adoptado una estrategia nueva, mucho más abierta al mundo del software libre y 
+    a la integración con otras plataformas y servicios.
+
+    Además, hay otro motivo de peso: Microsoft Azure.
+    En plena explosión de cloud services (servicios en la nube),
+    con un crecimiento previsto para este año del 21.4%, Microsoft tiene que competir con Amazon con AWS. 
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+    Ademas de la terminal Github se puede manejar por medio de su pagina web https://github.com/
