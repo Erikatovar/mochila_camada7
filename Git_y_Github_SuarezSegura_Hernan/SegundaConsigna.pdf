@@ -1,0 +1,14 @@
+Commandos:
+
+  - git init -> inicializa el repositorio en la carpeta local.
+  - git remote add {url} -> vincula mi carpeta local con un repositorio remoto.
+  - git clone {url} -> "descarga" todo lo que haya en el repositorio remoto.
+  - git branch -> de esta forma visualiza las ramas que hay en el repositorio - si en cambio se le agrega algo al final, se crea una rama con ese algo.
+  - git checkout {rama} -> permite cambiarte a una rama existente.
+  - git add -> stagea los archivos especificandolos, pero si se pone un '.' stagea todos los archivos.
+  - git status -> sirve para ver si un archivo esta stageado, modficado, o sin untracked.
+  - git commit -m "{msj}" -> de esta manera se realiza el punto dentro de la carpeta .git y se deja un mensaje informativo.
+  - git pull -> sirve para actualizar nuestro repositorio local y emparejarlo con el remoto.
+  - git push -> se utiliza para subir nuestros commits al repositorio remoto.
+  - git config user.name -> con esto configuramos nuestro nombre 
+  - git config user.email -> con esto configuramos nuestro email
