@@ -2,4 +2,4 @@
 
 2. El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.La compra de GitHub es un paso más en la inclinación de Microsoft para enfocarse todo lo posible al desarrollo.
 
-3. Si, hay otra forma que no sea la terminal. Por ejemplo la pagina web de Github donde puedo subir el repositorio, ver otros, etc.
+3. Si, hay otra forma que no sea la terminal. Por ejemplo la pagina web de Github en el Desktop.

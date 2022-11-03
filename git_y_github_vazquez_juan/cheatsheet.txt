@@ -1,0 +1,20 @@
+Subir archivos:
+
+Git add: agrega/sube los archivos
+Git push origin main/master: Manda los cambios al remoto.
+Git Commit -m "nombras el archivo": Hace un commit a los archivos o directorios agregados 
+Git status: Realiza un seguimiento del estado de los archivos
+
+Ramas:
+
+Git branch "nombre de la rama" crea una rama con ese mismo nombre.
+Git branch: Enumera las ramas del repositorio
+Git branch -d "nombre de la rama": Elimina la rama con ese mismo nombre.
+Git checkout "nombre de la rama": Nos mueve/dirige a esa rama en particular
+Git push origin "nombre de la rama": Sube a la nubre los cambios hechos en esa rama en particular
+Git pull origin "nombre de la rama" : Descarga todo el contenido que ya esta actualizado de esa misma rama.
+
+Bajar archivos:
+
+Git clone "url del repositorio que queremos clonar": Lo que hace es que clona o copia el repositorio en tu computadora.
+Git pull origin main: descarga los archivos de un repositorio remoto y lo actualiza.
