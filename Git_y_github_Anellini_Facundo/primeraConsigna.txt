@@ -14,6 +14,3 @@ de todo tipo suena inteligente.
 
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
 Se puede trabajar directamente desde la web de github, editar archivos y crear commits
-
-
-
