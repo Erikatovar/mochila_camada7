@@ -1,0 +1,21 @@
+GRUPO 2
+Gama Baja
+Procesador Intel i3 10105F
+Placa Madre Motherboard Colorful H510 M-k M.2 V20 Intel 11 Gen Lga 1200
+Memoria principal Memoria RAM color verde 8GB 1 Crucial
+Memoria secundaria SSD Hikvision C100 128 gb
+GPU Msi Geforce N210 1gb
+
+Gama media
+Procesador i5 10400F
+Placa Madre Msi B560m
+Memoria principal Corsair Vengeance 3200 mhz 16 gb
+Memoria secundaria SSD western digital 1tb
+GPU Nvidia Palit 2060 super 8gb
+
+Gama Alta
+Procesador i9 12900K 16 nucleos
+Placa Madre Asus Rog Z690-g
+Memoria principal Dominator Platinum 32 gb 5600 mhz
+Memoria secundaria Nvme Samsun 980 PRO
+GPU AMD RX 6900 XT
