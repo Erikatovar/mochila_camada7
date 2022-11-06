@@ -1,0 +1,25 @@
+Gama baja- Intel
+Procesador Core I3 7100
+Mother Asus Prime H510M
+Memoria Adata DDR4 4GB 2666MHZ Value
+Disco Solido SSD KingDian 120GB S280 500mb/s
+
+Gama media- Intel
+
+Procesador Intel Core I5 10400F 4.3GHz Turbo 1200
+Mother Asus Prime B460M-A r2.0 Intel 10th gen
+Memoria Geil DDR4 16GB (2x8GB) 3000MHZ Super Luce
+Disco Solido SSD PNY 250GB CS900 Salta
+GeForce GT 1030 2GD4 LP OC
+
+Gama alta- Intel 
+
+Procesador Core I7- 10700
+Mother Asus Rog Maximus XIII Hero DDR4
+Memoria Team DDR4 32GB (2x16) 3200MHz 
+Memoria Secuandaria 
+Disco Solido SSD Adata 960GB 520MB/s
+Placa de Video Asus Geforce RTX 3070 Ti 8GB
+
+
+
