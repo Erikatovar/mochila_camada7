@@ -1,0 +1,13 @@
+1) ¿Por qué un lenguaje de programación sólo puede usarse en algunos sistemas operativos y en otros no?
+Rpta: Un lenguaje de programación es compatible con una arquitectura y sistema operativo específico para el que fué creado.
+Por ello, si queremos que el lenguaje "X" sea compatible con otro sistema operativo, tendremos que traducirlo, mediante
+compilación o interpretación para que otro sistema operativo pueda leerlo en su lenguaje de programación compatible.
+En conclusión un lenguaje de programación solo se puede usar en arquitecturas y sistemas operativos con el cual
+este sea compatible.
+2) ¿Qué tipo de máquina virtual soporta Virtual Box?
+Rpta: Virtual Box soporta sistemas operativos, es decir, una máquina virtual de sistemas.
+3) ¿Qué función cumple el hypervisor en la virtualización?
+Rpta: Se encargan de asignar los recursos disponibles del Hardware a la máquina virtual.
+4) Si tengo una máquina virtual instalada y una se rompe ¿esto afecta a las demás? ¿Por qué?
+Rpta: No, no se rompen porque las máquinas virtuales son independientes entre sí, es decir, si yo tengo una arquitectura de dos
+VM "A" y "B" y "A" se rompe, esta no va a afectar a "B" ya que ambas son independientes una de la otra.
