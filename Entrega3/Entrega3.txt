@@ -1,0 +1,21 @@
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y
+contesten en conjunto:
+
+● ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+
+Por que el lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo.
+
+● ¿Qué tipo de máquina virtual soporta virtualBox?.
+
+Entre los sistemas operativos soportados (en modo anfitrión) se encuentran GNU/Linux, Mac OS X, OS/2 Warp, Genode,​ Windows y Solaris/OpenSolaris, y dentro de ellos es posible virtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD, OS/2 Warp, Windows, Solaris, MS-DOS, Genode y muchos otros.
+
+● ¿Qué función cumple el hypervisor en la virtualización?
+
+Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+● Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta
+a las demás? ¿por qué?
+
+No afecta a las demas, por que son virtualizaciones totalmente diferentes. Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada.
+
