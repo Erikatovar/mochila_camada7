@@ -1,0 +1,19 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?.
+
+Los lenguajes de programación de alto nivel, que son compilados, dependen del compilador, si este existe para diferentes sistemas operativos, el lenguaje funcionará sin importar en que sistema operativo se use, los archivos semi- compilados o compilación just-in-time, tienen su propia engine de ejecución o entorno de ejecución como el caso de lenguajes como Ruby y Java; cuando el lenguaje es interpretado como javascript igualmente debe tener su engine de ejecución, ene este caso los navegadores poseen build-in su intérprete, y para ejecución en desktop están las engine V8 de google, donde se puede ejecutar NODE y DENO. 
+Los lenguajes de programación de máquina solo operan dependiendo de la plataforma y si existe el juego de instrucciones para cada sistema operativo, es decir, están ligados más al hardware y al sistema operativo, por ejemplo realizar un código para el procesador i5, se debe tener el kit de instrucciones que ejecuta las instrucciones específicas en dicho procesador, y este kit debe existir para los diferentes sistemas operativos, en otras palabras lenguajes como assembler dependen de 2 factores de la arquitectura del procesador y la interpretación que le de el sistema operativo, al kit de instrucciones.
+
+¿Qué tipo de máquina virtual soporta virtualBox?.
+
+VirtualBox es una maquina virtual de tipo sistema, este tipo de maquina virtual es un software que simula el hardware de un computador físico y ejecuta programas como si fuera una computadora real. Es totalmente compatible con los sistemas operativos, las aplicaciones y los controladores de dispositivos estándar, de la misma forma que una máquina física.
+Cada máquina virtual completa es totalmente independiente.
+Usualmente se instalan distribuciones linux, aunque puede soportar cualquier sistema operativo.
+
+¿Qué función cumple el hypervisor en la virtualización?
+
+La capa de software, conocida como hipervisor, desvincula las máquinas virtuales de la máquina física y asigna dinámicamente los recursos a cada ordenador virtual según las necesidades, en otras palabras es el administrador de recursos de las maquinas virtuales, el hipervisor, desvincula las máquinas virtuales de la máquina física y asigna dinámicamente los recursos a cada ordenador virtual según las necesidades. VirtualBox, VMware Workstation y VMware Workstation Player son ejemplos de hipervisor alojado.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+Si alguna maquina virtual se rompe, el proceso de las demas maquinas virtuales continua sin problemas, ya que cada maquina virtual es totalmente independiente una de la otra.
+
