@@ -1,0 +1,3 @@
+a. Git es un proyecto de código abierto que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Se ha ideado para posibilitar la ramificación y el etiquetado como procesos de primera importancia (a diferencia de SVN) y las operaciones que afectan a las ramas y las etiquetas (como la fusión o la reversión) también se almacenan en el historial de cambios.
+b. El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+c. Mismo GitHub tiene una plataforma desktop que permite trabajar fuera de la terminal y subir todos los archivos a los repositorios.
