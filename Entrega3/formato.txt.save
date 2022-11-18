@@ -1,7 +1,0 @@
-Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
-Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr
-que tipo de maquina virtual soporta virtualbox?
-$ correr.
-Que funcion cumple el hypervisor en la virtualizacion?
-
-SI tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? por que?
