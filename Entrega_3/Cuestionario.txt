@@ -1,0 +1,15 @@
+1. Por que un lenguaje de programacion solo se puede utilizar
+en algunos sistemas operativos y en otros no.
+Rta: Por que un lenguaje de programacion complia a lenguaje ensamblador 
+el cual es el ejecutado por el sistema operativo, este lenguaje ensamblador 
+depende de dos cosas, de la arquitectura del procesodr y
+ la interpretacion que le de el sistema operativo.
+2. Que tipo de maquina virtual soporta Virtualbox.
+Rta: Las tipo 2.
+3. Que funcion cumple el hypervisor en la virtualizacion.
+Rta: Permite la virtualizacion de los servidores. Aila las maquinas
+virtuales entre si y controla las comunicaciones entre todas las maquinas
+virtuales
+4. Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta 
+a las demas. Porque
+Rta: No, por que son independientes, una no tiene que ver con la otra.
