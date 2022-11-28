@@ -1,0 +1,26 @@
+¿Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas
+operativos y en otros no?
+
+Porque algunos lenguajes dependen de la arquitectura del procesador para
+compilar, necesitan ser interpretados o pasar por la maquina virtual por 
+ejemplo java para poder ejecutado.
+
+¿Que tipo de maquina virtual soporta virtualBox?
+
+Soporta maquina virtual de sistema para ejecutar el S.O. asignado para el
+ guest
+
+¿Que funcion cumple el hypervisor en la virtualizacion?
+
+Funciona para aislar el S.O. host del sistema en Maquina Virtual guest, 
+proporcionar los recursos de hardware fisico como CPU, almacenamiento y
+compartir estos recursos  a los sistemas guest de acuerdo a la configuracion
+asignada.
+
+¿Si tengo mas de una maquina virtual instalada y una se rompe
+esto afecta a las demas?¿por que??
+
+No, no se rompe porque cada guest está aislado utilizando sus recursos
+  asignado, pero podría darse el caso que entre los guest esten compartiendo
+informacion, pruebas de laboratorio y desde luego un servicio no esté
+ disponible para ser utillizado por otro guest 
