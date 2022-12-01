@@ -1,0 +1,15 @@
+1)Rpta: porque un lenguaje de programacion compila a lenguaje ensamblador
+, el cual es ejecutado por el sistema operativo.
+Este lenguaje ensamblador depende de dos cosas, la arquitectura del procesador
+y la interpretacion que este le da al sistema operativo.
+
+2)Rta: tipo 2
+
+3)Rta: Un hypervisor permite que un ordenador host preste soporte a varias
+maquinas virtuales invitadas mediante el uso compartido virtual de sus
+recursos, como la memoria y el procesamiento.
+
+4)Rta: Las maquinas virtuales de procesos se ejecuatan en un mismo servidor
+para ejecutar varias instancias de la misma aplicacion de forma separada.
+De este modo, si una de ellas falla, no afectara al fincionamiento del resto.
+
