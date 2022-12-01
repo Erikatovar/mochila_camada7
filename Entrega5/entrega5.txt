@@ -1,0 +1,33 @@
+﻿Preguntas Realizar en mesa:
+
+¿Las ip publicas son las mismas? ¿Por que?
+No, son distintas, ya que opera se esta conectando a un proxy de Estados Unidos.
+
+No, sin la vpn no puedo visualizar el video.
+Con la vpn activada y estando conectado al proxy de Estados Unidos, pude verlo
+
+Utilizando TOR podemos obtener una IP pero no tenemos la localizacion exacta (sin pais).
+
+Tareas a Realizar:
+
+VELOCIDADES:
+
+OPERA CON VPN
+ping 229ms descarga:74.28 Mbps subida: 21.06 Mbps
+
+OPERA SIN VPN
+ping 193ms descarga: 146.79 Mbps subida: 9.44 Mbps
+
+TOR
+No nos arroja ningun dato.
+
+Preguntas Realizar en mesa:
+
+*¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Las velocidades de los tests son diferentes, la velocidad disminuye aproximadamente a la mitad cuando se activa una vpn.
+
+*¿Que signiﬁca el valor del ping?
+El ping es el tiempo (medido en ms) que tarda nuestra red en comunicarse con un equipo remoto.
+
+*El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+El ping es un poco mas alto con la VPN activa, ya que hay un equipo intermediario que vuelve mas lenta la conexion ya que agrega "saltos" o pasos en la comunicacion.
