@@ -1,0 +1,28 @@
+----- VPN -----
+
+- ¿Las ip públicas son las mismas? ¿por qué? 
+
+No son las mismas, ya que al conectarse a la VPN estamos cambiando la IP.
+
+- Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+
+No se puede visualizar el video sin VPN, ya que el acceso al video se lo niega mediante la geolocalización de la IP pública.
+
+- Utilizando Tor ¿pudimos localizar la IP ?
+
+Si y no, al momento de localizar la IP logramos visualizar un valor, pero luego cuando lo queremos ver en el mapa no podemos, esto se debe a que no puede resolver el lugar físico de donde se encuentra.
+
+
+----- Speedtest ----
+
+- ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+Si, eso es porque los saltos entre routers son más extensos.
+
+- ¿Que significa el valor del ping?
+
+Es el tiempo que tarda en mandar los paquetes desde el origen al destino.
+
+- El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+Si, porque el envío de paquetes siempre van a originarse en nuestra localización, y en el caso de la VPN al cambiar de lugar físico también cambia la cantidad de saltos y por ende el tiempo en el cual llega la información a destino.
