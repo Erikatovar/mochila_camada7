@@ -1,0 +1,31 @@
+1- ¿Las ip públicas son las mismas? ¿por qué?
+    No, no son las mismas. Ya que sin vpn agarra la ip de mi provedor, 
+    con una VPN oculta la verdadera dirección IP al permitirle a la red redireccionarla por 
+    un servidor remoto especial, alojado por el proveedor de una VPN.
+    y Tor oculta la dirección IP y su actividad de navegación redirigiendo el tráfico web a 
+    través de una serie de diferentes routers conocidos como nodos.
+
+2- Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo,
+¿que es lo que sucedió?¿Por qué?
+    Sin vpn no se puede visualizar ya que el video se encuentra bloqueado en mi pais, pero con una vpn me deja ya que 
+    puedo navegar como si me encontrara en otro pais.
+
+3- Utilizando Tor ¿pudimos localizar la IP ? 
+    Tor brinda anonimato, a diferencia de la VPN que brinda seguridad a traves del cifrado de datos.
+     Por lo que Tor no se va a mostrar la IP.
+
+4- ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+    Si, las velocidades son diferentes. Con VPN las velocidades son más lentas.
+     Esto sucede porque la VPN aumenta su ping porque agrega pasos adicionales 
+    (servidor de la VPN) para que tu tráfico de Internet llegue a su destino, lo que lo hace más largo y complicado.
+    Con Tor las velocidades tambien son mas lentas ya que pasan por tres o más servidores y se cifran y descifran al menos 3 veces.
+
+5- ¿Qué significa el valor del ping? 
+    Es la latencia (expresada en milisegundos) y mide la respuesta de la conexión. A menor ping, mayor respuesta de conexión
+
+6- El valor del ping, ¿varía entre las diferentes opciones? ¿Por qué?
+    Si, el valor del ping varía. Con VPN aumenta el ping, es decir, disminuye la respuesta de la conexión.
+     Esto sucede porque al cifrar los datos y agregar un salto en la ruta disminuye la velocidad
+
+
+
