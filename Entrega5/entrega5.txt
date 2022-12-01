@@ -12,7 +12,7 @@
 
 3- Utilizando Tor ¿pudimos localizar la IP ? 
     Tor brinda anonimato, a diferencia de la VPN que brinda seguridad a traves del cifrado de datos.
-     Por lo que Tor no se va a mostrar la IP.
+     Por lo que Tor nos muestra la IP del ultimo nodo y si quisieramos hacer la geolocalizacion no nos devovera nada.
 
 4- ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
     Si, las velocidades son diferentes. Con VPN las velocidades son más lentas.
