@@ -1,0 +1,28 @@
+----- VPN -----
+
+- ¿Las ip públicas son las mismas? ¿por qué? 
+
+No son las mismas, ya que al conectarse a la VPN estamos cambiando la IP.
+
+- Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+
+No, solamente con el VPN de Opera ya que este se conecto al territorio disponible del video.
+
+- Utilizando Tor ¿pudimos localizar la IP ?
+
+No, solamente nos dio el supuesto "proveedor de servicio"
+
+----- Speedtest ----
+
+- ¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+Si son diferentes, creo que es por la ubicación a la que nos estamos conectando que normalmente suele ser de Estados Unidos o Europa.
+
+- ¿Que significa el valor del ping?
+
+Es el tiempo medido en milisegundos que tarda en conectarse nuestra conexión local al servidor remoto. 
+
+- El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+Si varía, sin VPN el ping es de 5 ms pero en la VPN sube hasta 250ms. Esto sucede ya que la VPN aumenta más el ping ya que los saltos
+son más largos hasta llegar al destino, lo que lo hace más complicado y lento.
