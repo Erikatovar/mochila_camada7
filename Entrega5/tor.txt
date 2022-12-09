@@ -1,0 +1,18 @@
+1).Las IP públicas son las mismas. ¿Por qué?
+No. Por que se utilizaron VPN y Tor en los navegadores que generan que en la VPN se cree una red privada y oculta la IP pública y en Tor se encriptan las peticiones.
+
+2).Sin utilizar la VPN ¿puedes ver el siguiente video? Ahora actívala e intenta verlo, ¿qué es lo que sucedió? ¿por qué?
+Cuando no se uso la VPN no se pudo visualizar el video debido a que el canal Ziggo Sport lo tiene restringido (lo más probable) para Latinoamérica. 
+Luego cuando se activo la VPN se pudo visualizar el video debido a que la IP estaba afuera de la zona restringida o dentro del área permitida. 
+
+3).Utilizando Tor ¿pudimos localizar la IP?
+No. Por que el destinatario no sabe el origen del paquete debido a que la información viaja por varias capas de servidores. El destinatario no conoce el origen del paquete por lo que no lo puede geolocalizar. 
+
+4).¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+Si son diferentes. La velocidad es distinta respecto del VPN porque el servidor del VPN esta lejos físicamente por lo que la velocidad baja y tarda la comunicación. Esta diferencia se ve acentuada en Tor debido a que se usan múltiples servidores con distintas geolocalizaciones, por lo que la comunicación tarda más.
+
+5).¿Qué significa el valor del ping?
+El ping es el tiempo que se tarda en establecer la comunicación entre un anfitrión local y un equipo remoto. Tiempo: Solicito-Respuesta.
+
+6).El valor del ping, ¿varía entre las diferentes opciones? ¿por qué?
+Sí, varía. La diferencia es por la distancia con el equipo. Mientras más lejos se encuentre más se tarda en comunicarse. 
